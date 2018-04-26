@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="ast (v2.3.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="buff-ignore (v1.2.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.10.5, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="celluloid (v0.16.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="celluloid-io (v0.16.2, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cleanroom (v1.0.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="colorize (v0.8.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.3, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.18, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ipaddress (v0.8.3, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v2.1.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="libyajl2 (v1.2.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mixlib-cli (v1.7.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mixlib-config (v2.2.4, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mixlib-log (v1.7.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_xml (v0.6.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multipart-post (v2.0.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-scp (v1.2.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-ssh-gateway (v1.3.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-ssh-multi (v1.2.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-telnet (v0.1.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="parallel (v1.12.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="parser (v2.4.0.2, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="powerpack (v0.1.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v12.3.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec (v3.4.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-its (v1.2.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubocop (v0.51.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-progressbar (v1.9.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="systemu (v2.6.5, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v0.19.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="timers (v4.0.4, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="unicode-display_width (v1.3.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="wmi-lite (v1.0.0, rbenv: 2.1.0) [gem]" level="application" />
+  </component>
+</module>

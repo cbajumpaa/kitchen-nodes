@@ -16,7 +16,8 @@ describe Kitchen::Provisioner::Nodes do
       kitchen_root: '/r',
       run_list: ['recipe[cookbook::default]'],
       attributes: { att_key: 'att_val' },
-      client_rb: { environment: 'my_env' }
+      client_rb: { environment: 'my_env' },
+      reset_node_files: false
     }
   end
   let(:instance) do
